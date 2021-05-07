@@ -2,17 +2,6 @@
 
 This is a program I created for my company, CPR Tools, to manage our extensive lab inventory. One of its key features is the use of "search types" which allow for custom item categories with custom parameters that can be filtered. 
 
-
-## Installation
-A minimum of Python 3.7 is recommended for maximum compatibility.
-
-Use the package manager  [pip](https://pip.pypa.io/en/stable/)  to install this program's dependencies:
-
-```bash
-pip install Pandas
-pip install PySide2
-```
-**Note:** If you do not wish to install this program's dependencies or are looking for a portable solution, an all-in-one executable is available from this [link](https://www.mediafire.com/file/3416y89li6pvol2/inventory_database.exe/file)
 ## Setup
 **Creating a new user:**
 To start, it is recommended, but not required, to create a named user to replace the default user. This can be done through: 
